@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.less"],"names":[],"mappings":"AAAA,SACE,MAAA,IAEF,UACE,MAAA,KAEF,IACE,MAAA,KAEF,EACE,YAAA,MAEF,WACE,QAAA","file":"styles.min.css","sourcesContent":["span.red {\n  color: #f00; \n}    \nspan.blue {\n  color: #00f;\n}\nimg {\n  width: 100%;\n}\np {\n  font-family: arial\n}\ndiv.hidden {\n  display: none;\n}"],"sourceRoot":"/source/"}

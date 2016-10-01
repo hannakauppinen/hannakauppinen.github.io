@@ -1,0 +1,23 @@
+{
+  "name": "hanna",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hannakauppinen@github.com/hannakauppinen/hannakauppinen.fi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannakauppinen/hannakauppinen.fi/issues"
+  },
+  "homepage": "https://github.com/hannakauppinen/hannakauppinen.fi#readme",
+  "dependencies": {
+    "d3": "^4.2.5",
+    "datamaps": "^0.5.7",
+    "topojson": "^1.6.27"
+  }
+}
